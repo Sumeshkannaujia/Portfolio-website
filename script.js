@@ -7,7 +7,7 @@ navLinks.classList.toggle("active");
 });
 
 // Typing effect
-const words = ["Frontend Developer","UI Designer","JavaScript Enthusiast"];
+const words = ["Frontend Developer","Web Developer","JavaScript Enthusiast"];
 let i=0,j=0,currentWord="",isDeleting=false;
 
 function type(){
